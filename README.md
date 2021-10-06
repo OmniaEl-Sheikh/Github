@@ -1,2 +1,2 @@
-# Github
+# Git_course
 my first repo
